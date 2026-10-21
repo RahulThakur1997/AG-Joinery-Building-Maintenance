@@ -1,0 +1,8 @@
+{
+  "name": "AG Joinery & Building Maintenance",
+  "description": "Commercial joinery, retail shopfitting, and planned building maintenance contractor serving Leeds, Sheffield, York, and Yorkshire regions. Led by Adrian Griffiths with 20+ years trade expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
